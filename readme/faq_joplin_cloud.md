@@ -27,4 +27,4 @@ Because the protection of the environment is as important as the protection of y
 
 To do this we invest in various ecological projects (planting trees, cleaning up polluted areas, cleaning the oceans, etc.) through organisations, associations or companies.
 
-</div><div style="width: 60%;"><img src=":/e16a020f9c2f4f028f09584d5ecb154e" alt="Reforestation-pana 1.png" width="327" height="244" class="jop-noMdConv"></div></div></section>
+</div><div style="width: 60%;"><img src=":https://github.com/Linkosred/Joplin-FR/blob/main/readme/asset/JoplinEco.png" alt="JoplinEco" width="327" height="244" class="jop-noMdConv"></div></div></section>
